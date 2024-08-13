@@ -24,7 +24,7 @@
 
 | N° | Projects |
 | ------- | -------- |
-| 01 | <a href="">soon!</a> |
+| 01 | <a href="https://github.com/nyxtais/Python/tree/bfffb6dec43827d77e052c1c66d8f47bdd121ac7/pystudy/encryption">Encryption Program</a> |
 | 02 | <a href="">soon!</a> |
 | 03 | <a href="">soon!</a> |
 | 04 | <a href="">soon!</a> |
