@@ -9,7 +9,7 @@
   <p>
    Repository created with the intention of sharing my studies
   </p> 
-<h3>
+</h3>
 
 <h3>★</h3>
 <p>
