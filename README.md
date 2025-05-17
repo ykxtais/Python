@@ -24,10 +24,10 @@
 
 | N° | Projects |
 | ------- | -------- |
-| 01 | <a href="https://github.com/nyxtais/Python/tree/bfffb6dec43827d77e052c1c66d8f47bdd121ac7/pystudy/encryption">Encryption Program</a> |
-| 02 | <a href="https://github.com/nyxtais/Python/tree/8aec3fb0756fa3737e76be622aa49e1601dd0db0/pystudy/encryption/a-oo-py">OOP Python</a> |
-| 03 | <a href="https://github.com/ykxtais/Python/tree/a13b7f51a12ede045a15d9f7da84895db4a59fe9/pystudy/encryption/pygame">pygame</a> |
-| 04 | <a href="https://github.com/ykxtais/Python/tree/b514de3d1e2b73f86d120cfa0f09054b79e3acc1/pystudy/encryption/turtle">turtle</a> |
-| 05 | <a href="">soon!</a> |
-| 06 | <a href="">soon!</a> |
+| 01 | <a href="https://github.com/ykxtais/Python/tree/5ce9fd56c024780b533d6d84b399e4f7f07d9434/pystudy/encryption">Encryption Program</a> |
+| 02 | <a href="https://github.com/ykxtais/Python/tree/5ce9fd56c024780b533d6d84b399e4f7f07d9434/pystudy/a-oo-py">OOP Python</a> |
+| 03 | <a href="https://github.com/ykxtais/Python/tree/5ce9fd56c024780b533d6d84b399e4f7f07d9434/pystudy/pygame">pygame</a> |
+| 04 | <a href="https://github.com/ykxtais/Python/tree/5ce9fd56c024780b533d6d84b399e4f7f07d9434/pystudy/turtle">turtle</a> |
+| 05 | <a href="https://github.com/ykxtais/Python/tree/5ce9fd56c024780b533d6d84b399e4f7f07d9434/pystudy/apirequests">API requests</a> |
+| 06 | <a href="https://github.com/ykxtais/Python/tree/5ce9fd56c024780b533d6d84b399e4f7f07d9434/pystudy/webscraping">Web Scraping</a> |
 | 07 | <a href="">soon!</a> |
